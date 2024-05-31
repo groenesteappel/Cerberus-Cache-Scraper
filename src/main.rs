@@ -67,10 +67,14 @@ async fn main() -> IoResult<()> {
 
     // Spawn a task to handle Ctrl+C
     let output_file_clone = Arc::clone(&output_file);
-    let handle = tokio::spawn(async move {
+    let terminate = Arc::new(Mutex::new(false));
+    let terminate_clone = Arc::clone(&terminate);
+    tokio::spawn(async move {
         signal::ctrl_c().await.expect("Failed to listen for Ctrl+C");
+        let mut terminate = terminate_clone.lock().unwrap();
+        *terminate = true;
         append_closing_bracket(&output_file_clone);
-        std::process::exit(0);
+        println!("Termination signal received. Exiting...");
     });
 
     for url in &config.urls {
@@ -85,9 +89,13 @@ async fn main() -> IoResult<()> {
         let output_file = Arc::clone(&output_file); // Clone the Arc, not the file handle
         let headers = headers.clone();
         let first_result = Arc::clone(&first_result);
+        let terminate = Arc::clone(&terminate);
 
         tasks.push(task::spawn(async move {
             let _permit = semaphore.acquire().await.unwrap();
+            if *terminate.lock().unwrap() {
+                return;
+            }
             let result = check_cache_headers(&normalized_url, &client, &config.method, config.timeout, config.retries, config.verbose, &resolver, &headers).await;
             if let Some(cache_info) = &result {
                 // Write the result to the output file in a thread-safe manner
@@ -132,7 +140,10 @@ async fn main() -> IoResult<()> {
         println!("Results saved to {}", config.output);
     }
 
-    handle.await.expect("Ctrl+C handler failed");
+    // Await all tasks
+    for task in tasks {
+        task.await.expect("Task failed");
+    }
 
     Ok(())
 }
