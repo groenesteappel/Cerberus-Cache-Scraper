@@ -27,7 +27,7 @@ Build the project:
 cargo build --release
 ```
 
-##Usage
+## Usage
 
 The following is the usage information for Cerberus Cache Scraper:
 
@@ -53,7 +53,8 @@ OPTIONS:
 
 ```
 
-##Examples
+## Examples
+
 Basic Usage:
 
 To scrape URLs listed in urls.txt and save the results to results.json:
@@ -108,10 +109,10 @@ To set the number of concurrent requests:
 cargo run -- urls.txt -o results.json --concurrency 20
 ```
 
-##Contributing
+## Contributing
 
 If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request. Even though i have no intrest in updating this or understand how pull requests work lol.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
