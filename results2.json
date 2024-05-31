@@ -1,0 +1,2539 @@
+[
+  {
+    "url": "https://senaat.be",
+    "headers": {
+      "CF-Ray": "88cab413d8585d97-FRA",
+      "Vary": "Accept-Encoding",
+      "CF-Cache-Status": "DYNAMIC",
+      "Last-Modified": "Mon, 11 Oct 2021 09:43:28 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://www.cloudflare.com",
+    "headers": {
+      "Cache-Control": "public, max-age=0, must-revalidate",
+      "CF-Ray": "88cab448df7b74fc-BRU"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://lifestyler.be",
+    "headers": {
+      "Cache-Control": "max-age=15",
+      "CF-Ray": "88cab61d6a0183c6-BRU",
+      "Server-Timing": "cfRequestDuration;dur=4.999876",
+      "Expires": "Fri, 31 May 2024 23:23:38 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://decudental.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://jarnelosschaerthowest.be",
+    "headers": { "Vary": "Accept-Encoding", "Age": "7626" },
+    "method": "GET"
+  },
+  {
+    "url": "https://autogarage.be",
+    "headers": {
+      "ETag": "\"481-5b7015659099c\"",
+      "Last-Modified": "Mon, 21 Dec 2020 22:54:15 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://arky.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:23:39 GMT",
+      "Cache-Control": "max-age=15",
+      "CF-Ray": "88cab623ae5a9b1f-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bureau14.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://manyandmore.be",
+    "headers": { "Pragma": "no-cache", "Cache-Control": "no-cache, no-store" },
+    "method": "GET"
+  },
+  {
+    "url": "https://click4wheels.be",
+    "headers": { "Vary": "User-Agent,Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://wijnenjulien.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, no-cache, s-maxage=10"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://angjo.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://ismaeasy.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://evtrip.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://pakketboxen.be",
+    "headers": {
+      "Cache-Control": "max-age=0",
+      "Age": "8591",
+      "Last-Modified": "Fri, 31 May 2024 16:25:45 GMT",
+      "Expires": "Fri, 31 May 2024 21:00:15 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://gevangenisgent.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://duodakonderhoud.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://tibetantreasures.be",
+    "headers": {
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Vary": "Accept-Encoding",
+      "Expires": "Fri, 31 May 2024 23:23:28 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://casadiiaia.be",
+    "headers": {
+      "Server-Timing": "cache;desc=hit, varnish;desc=hit, dc;desc=84_g",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "private,max-age=0,must-revalidate",
+      "ETag": "W/\"dfd5b7a6b6f554aa8f4c20e16d45e8cc\"",
+      "Age": "111730"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://www.cloudflare.com",
+    "headers": {
+      "CF-Ray": "88cab640ffef74fc-BRU",
+      "Cache-Control": "public, max-age=0, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://groomy.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://gaytu.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://palmametaldesign.be",
+    "headers": {
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Vary": "Accept-Encoding",
+      "Expires": "Fri, 31 May 2024 23:23:29 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://financementdesentreprises.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://bigkeikei.be",
+    "headers": {
+      "ETag": "\"312-5771885c1af83\"",
+      "Last-Modified": "Sun, 30 Sep 2018 15:41:30 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://carrosserie-bucsan.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Expires": "Wed, 27 Nov 2024 23:23:29 GMT",
+      "Cache-Control": "no-cache, private"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://glasdom.be",
+    "headers": {
+      "ETag": "\"cc5-4b63d37f66ec0\"",
+      "Last-Modified": "Wed, 11 Jan 2012 09:25:55 GMT",
+      "Vary": "Accept-Encoding",
+      "X-Cache": "HIT from Backend"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ferronnierlecomte.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://epilium.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://kidscab-bakfiets-fietskar.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://inschrijven-verhuursoftware.be",
+    "headers": { "Last-Modified": "Tue, 24 Apr 2018 12:12:00 GMT" },
+    "method": "GET"
+  },
+  {
+    "url": "https://uxconsult.be",
+    "headers": {
+      "Last-Modified": "Thu, 21 Mar 2019 10:02:02 GMT",
+      "ETag": "W/\"10c2-1699fb34e51-gzip\"",
+      "Cache-Control": "public, max-age=0",
+      "Vary": "Accept-Encoding",
+      "Age": "0",
+      "X-Cache": "MISS"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://xn--cafgids-dya.be",
+    "headers": {
+      "Vary": "sec-ch-prefers-color-scheme",
+      "Cache-Control": "no-store, max-age=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://managementschool.be",
+    "headers": {
+      "ETag": "W/\"3e355-SpX5KUYoSA8Rd/8Xru9jOGShLPs\"",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://energy-harvesting.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://karrehof.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://valeriebonardel.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://kjo.be",
+    "headers": {
+      "ETag": "W/\"b995fa52d6f02e37ca7280c5b7d4c4ab\"",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://garantie-a-vie.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://fleksys.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://vetagrim-consult.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://gaupinflorian.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://nys-jardin.be",
+    "headers": {
+      "Cache-Control": "max-age=604800",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Expires": "Fri, 07 Jun 2024 23:23:37 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cnrood.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://echosducredit.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Cache-Control": "private, must-revalidate",
+      "Expires": "Fri, 31 May 2024 23:23:37 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://myvaillantpro.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "Server-Timing": "intid;desc=6026db5326c39a04"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://frituur-bij-t-boss-ke.be",
+    "headers": { "Last-Modified": "Wed, 04 Nov 2020 17:16:43 GMT" },
+    "method": "GET"
+  },
+  {
+    "url": "https://gsmeyers.be",
+    "headers": {
+      "Expires": "Sat, 01 Jun 2024 00:23:38 GMT",
+      "Age": "0",
+      "Cache-Control": "max-age=3600",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://lingerieshopping.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://motorhomes-limburg.be",
+    "headers": {
+      "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Last-Modified": "Fri, 31 May 2024 23:23:43 GMT",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://renaulttrucksmaster.be",
+    "headers": {
+      "Age": "47056",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=240, public, s-maxage=240"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://gillesvalk.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://linkpay-school.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://mbapps.be",
+    "headers": {
+      "ETag": "\"2458c1e2fda2cd1:0\"",
+      "Last-Modified": "Fri, 05 Oct 2012 13:32:37 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://janvandendaele.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://projectmakelaars.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://florencedelvaux.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tractorlichtparade.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://altkin.be",
+    "headers": {
+      "CF-Ray": "88cab6c87da55d9c-FRA",
+      "Vary": "Accept-Encoding",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://twowaycommunications.be",
+    "headers": {
+      "ETag": "\"2aa6-5fbd4f57a352b\"",
+      "Last-Modified": "Tue, 16 May 2023 19:55:53 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://enkaavee.be",
+    "headers": {
+      "Expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+      "Cache-Control": "no-cache, must-revalidate, max-age=0",
+      "Age": "0",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://toevluchtvanmaria.be",
+    "headers": {
+      "Cache-Control": "must-revalidate, no-cache, private",
+      "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://oogarts-oorarts.be",
+    "headers": {
+      "ETag": "\"364c91a26ffed41:0\"",
+      "Last-Modified": "Mon, 29 Apr 2019 09:40:52 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://doktergantois.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://esmarketing.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:23:53 GMT",
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://dhertemotorsport.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://cougartron.be",
+    "headers": {
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "ETag": "W/\"e190c62d6843cf70adb138fdb2d5aa9f\"",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://wordpressthemes.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "CF-Ray": "88cab6e71f865b6e-FRA",
+      "CF-Cache-Status": "DYNAMIC",
+      "Vary": "X-Forwarded-Proto,Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://mijn360tour.be",
+    "headers": {
+      "Last-Modified": "Fri, 10 Feb 2023 10:07:15 GMT",
+      "ETag": "\"6fdd-5f455a9747b2a\"",
+      "Vary": "User-Agent,Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://startaxilier.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  { "url": "https://enersys.be", "headers": { "Age": "0" }, "method": "GET" },
+  {
+    "url": "https://bigmailbox.be",
+    "headers": {
+      "Last-Modified": "Mon, 19 Dec 2022 12:01:08 GMT",
+      "Vary": "Accept-Encoding,User-Agent",
+      "ETag": "\"1c112-5f02d13222f80\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://dm-heftrucks.be",
+    "headers": {
+      "Last-Modified": "Sun, 07 Jan 2024 14:53:12 GMT",
+      "Vary": "Accept-Encoding,User-Agent",
+      "ETag": "\"2a08-60e5c3d82a0f6\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://pethealingangel.be",
+    "headers": {
+      "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+      "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
+      "Pragma": "no-cache",
+      "Last-Modified": "Mon, 04 Mar 2024 14:30:15 GMT",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tgrootehuys.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://budgetwebdesign.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Vary": "X-Forwarded-Proto,Accept-Encoding,User-Agent",
+      "CF-Cache-Status": "DYNAMIC",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "CF-Ray": "88cab709d8285b6e-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://mijnbuitenverblijf.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://documentsadministratifs.be",
+    "headers": { "Cache-Control": "private" },
+    "method": "GET"
+  },
+  {
+    "url": "https://stripteasevandedag.be",
+    "headers": {
+      "Expires": "Fri, 28 Jun 2024 23:24:02 GMT",
+      "Cache-Control": "no-cache",
+      "Last-Modified": "Fri, 31 May 2024 21:18:22 GMT",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ikbestuurmee.be",
+    "headers": { "X-Varnish": "14450331687", "Age": "0" },
+    "method": "GET"
+  },
+  {
+    "url": "https://thuisverplegingwalho.be",
+    "headers": {
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Vary": "Accept-Encoding",
+      "Expires": "Fri, 31 May 2024 23:24:04 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://garagehaedens.be",
+    "headers": { "Last-Modified": "Fri, 22 Aug 2008 19:25:37 GMT" },
+    "method": "GET"
+  },
+  {
+    "url": "https://frituurdekeizergent.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Age": "0",
+      "X-Varnish": "488516642"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tfeinvest.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://imecaibarometer.be",
+    "headers": {
+      "Age": "2503",
+      "Cache-Control": "public, max-age=0, must-revalidate",
+      "ETag": "\"l1wsmehjch2mkj\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bitchclub.be",
+    "headers": {
+      "ETag": "W/\"139880b87058262dec758ee6d3ce2fa4\"",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://vaillantverwarmingsketel.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://huysd.be",
+    "headers": {
+      "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+      "Vary": "Accept-Encoding",
+      "Pragma": "no-cache",
+      "Cache-Control": "private, no-cache, no-store, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://friendship.be",
+    "headers": {
+      "Vary": "sec-ch-prefers-color-scheme",
+      "Cache-Control": "no-store, max-age=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://exobeauty.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://annlittani.be",
+    "headers": {
+      "ETag": "W/\"1402-1717029551;gz\"",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://dewispelaere-schaubroeck.be",
+    "headers": {
+      "Cache-Control": "no-cache, private",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://hp3dprinting.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://carpbaits.be",
+    "headers": {
+      "Vary": "sec-ch-prefers-color-scheme",
+      "Cache-Control": "no-store, max-age=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://felixceunen.be",
+    "headers": {
+      "ETag": "\"23d5-610689a70f080\"",
+      "Last-Modified": "Fri, 02 Feb 2024 16:28:34 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://horsemanship.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://dicietdela.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://airport-shuttle.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://pour-valentin.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://bimmaturity.be",
+    "headers": {
+      "ETag": "\"8e-59d0b43c8fdc0\"",
+      "Last-Modified": "Sun, 26 Jan 2020 13:49:51 GMT",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://fla-keys.be",
+    "headers": {
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cab7877f5f0482-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://serenitygarden.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://kumnyebrugge.be",
+    "headers": {
+      "Last-Modified": "Fri, 11 Aug 2023 14:02:04 GMT",
+      "ETag": "\"1d0-64d63f5c-3fe22dda2d1a74c1;;;\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://koekoekbrouwerij.be",
+    "headers": {
+      "X-Cache": "HIT",
+      "Vary": "x-wf-forwarded-proto, Accept-Encoding",
+      "Age": "47041"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://grimper.be",
+    "headers": {
+      "Server-Timing": "cfRequestDuration;dur=6.000042",
+      "Expires": "Fri, 31 May 2024 23:24:39 GMT",
+      "Cache-Control": "max-age=15",
+      "CF-Ray": "88cab79a9a4bb9c0-BRU"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://metacare.be",
+    "headers": {
+      "CF-Ray": "88cab7a07b112c72-FRA",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://charve.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bilzenjazz.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Expires": "Thu, 01 Jan 1970 00:00:00 UTC",
+      "Cache-Control": "no-cache",
+      "Age": "0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://whatbelgiumis.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://studiobeeckx.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://goodboy.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://deplusmakelaar.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://eethuis-dalin.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Age": "0",
+      "X-Varnish": "531984939"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://helpdeskmedewerker.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://chick-chips.be",
+    "headers": {
+      "X-Varnish": "489559756",
+      "Age": "0",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://builden.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://caselek.be",
+    "headers": { "Vary": "User-Agent", "Cache-Control": "public" },
+    "method": "GET"
+  },
+  {
+    "url": "https://homedesignconcept.be",
+    "headers": { "Cache-Control": "public", "Vary": "User-Agent" },
+    "method": "GET"
+  },
+  { "url": "https://si-jolies.be", "headers": { "Age": "0" }, "method": "GET" },
+  {
+    "url": "https://uneywa.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "ETag": "\"1af3-610f50d35f5e0\"",
+      "Last-Modified": "Fri, 09 Feb 2024 16:02:14 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bdsmdaan.be",
+    "headers": {
+      "Last-Modified": "Wed, 26 Apr 2023 17:08:16 GMT",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"2961e7a-65ab-5fa40492ba000\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://belgiannorthsea.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "ETag": "\"400-616ffada252c6\"",
+      "Last-Modified": "Fri, 26 Apr 2024 13:14:05 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://scholte.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Vary": "Host,Accept-Encoding,User-Agent",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cyberwork.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Expires": "Mon, 26 Jul 1997 05:00:00 GMT",
+      "Last-Modified": "Fri, 31 May 2024 23:24:38 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://shuttle-bruxelles.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://habacuchikes.be",
+    "headers": {
+      "Cache-Control": "private, no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Expires": "Sat, 01 Jan 2000 00:00:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://wematchit.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "ETag": "W/\"075cb8f257f7cf8864ff10ef14e75445\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://brace-kopen.be",
+    "headers": {
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Expires": "0",
+      "Vary": "Accept-Encoding",
+      "Pragma": "no-cache",
+      "Last-Modified": "Wed, 13 Jan 2021 13:07:43 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cronoskids.be",
+    "headers": {
+      "Cache-Control": "no-cache",
+      "Pragma": "no-cache",
+      "ETag": "\"Ew3detfmxfrKCXg9HQMqQqa3KvuW9RGlm/iAg596MQ4=\"",
+      "Expires": "-1"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://jorgespiessens.be",
+    "headers": {
+      "ETag": "\"5e5fed99-160a\"",
+      "Last-Modified": "Wed, 04 Mar 2020 18:04:09 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bijzondereovernachtingen.be",
+    "headers": {
+      "Vary": "X-Forwarded-Proto,Accept-Encoding,User-Agent",
+      "Pragma": "no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cab80a0f715b6e-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://familieneirinck.be",
+    "headers": {
+      "ETag": "\"79174ed813cfd61:0\"",
+      "Last-Modified": "Thu, 10 Dec 2020 16:45:19 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://evshop.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://etherea.be",
+    "headers": {
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cab81ccf709956-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://livecambabes.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Expires": "Fri, 31 May 2024 23:24:45 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://simbiotic.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://studieboost.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, s-maxage=2592000",
+      "Last-Modified": "Tue, 26 Mar 2024 02:19:25 GMT",
+      "Expires": "Fri, 31 May 2024 21:17:08 GMT",
+      "X-Cache": "HIT",
+      "Age": "7657"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://uyttersprot.be",
+    "headers": {
+      "ETag": "W/\"834e4dca9f57e78deba32c19f58308ec\"",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://residentiesaanzee.be",
+    "headers": {
+      "Expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+      "Cache-Control": "no-cache, must-revalidate, max-age=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://kaarten-shop.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://weticket.be",
+    "headers": {
+      "X-Cache": "HIT",
+      "CF-Ray": "88cab82c09f1b750-BRU",
+      "Vary": "x-wf-forwarded-proto, Accept-Encoding",
+      "Age": "2381",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://stagejka.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://fatbikebelgium.be",
+    "headers": {
+      "Server-Timing": "cfRequestDuration;dur=5.999804",
+      "CF-Ray": "88cab82dbc73b74a-BRU",
+      "Cache-Control": "max-age=15",
+      "Expires": "Fri, 31 May 2024 23:25:02 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ldwbv.be",
+    "headers": {
+      "Cache-Control": "max-age=300, must-revalidate",
+      "Vary": "Accept-Encoding",
+      "Last-Modified": "Fri, 31 May 2024 23:24:48 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://acupunctures.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://crunchyandsweet.be",
+    "headers": {
+      "ETag": "12788b490a0470587106a272ceda94a3",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=30"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://de555.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://freewings.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:24:51 GMT",
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://geussens.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cab84989f59079-FRA",
+      "Cache-Control": "public, max-age=0, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://lean-academy.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "no-store, no-cache, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tablemetisse.be",
+    "headers": { "Vary": "User-Agent", "Cache-Control": "public" },
+    "method": "GET"
+  },
+  {
+    "url": "https://plombier-loodgieter-agree.be",
+    "headers": {
+      "Age": "248471",
+      "Cache-Control": "max-age=0",
+      "Expires": "Wed, 29 May 2024 02:23:41 GMT",
+      "Vary": "Accept-Encoding",
+      "X-Varnish": "3452767223 893880099"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cddesign.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://skyllight.be",
+    "headers": {
+      "CF-Ray": "88cab856df6eb757-BRU",
+      "Expires": "Fri, 31 May 2024 23:25:09 GMT",
+      "Cache-Control": "max-age=15",
+      "Server-Timing": "cfRequestDuration;dur=3.999949"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://transportpicus.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://leclercq-decoration.be",
+    "headers": {
+      "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Age": "58350",
+      "ETag": "W/\"33f6d835bb70d34834971c90ef7e46fd--gzip\"",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cleanynnove.be",
+    "headers": { "Vary": "accept-encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://meatme.be",
+    "headers": {
+      "Last-Modified": "Fri, 31 May 2024 09:48:32 GMT",
+      "Cache-Control": "max-age=0, s-maxage=2592000",
+      "Vary": "Accept-Encoding",
+      "Expires": "Fri, 31 May 2024 23:24:55 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://couteaux-damas.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cab863e9b61e0c-FRA",
+      "Pragma": "no-cache",
+      "Cache-Control": "public, no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://beste-warmtepomp.be",
+    "headers": {
+      "Cache-Control": "no-cache, private",
+      "CF-Ray": "88cab85f9b2c35fd-FRA",
+      "Vary": "Accept-Encoding",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bertazzoni.be",
+    "headers": {
+      "ETag": "\"d2-4bbd6c963d0c0\"",
+      "Last-Modified": "Thu, 22 Mar 2012 15:44:43 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://skilltournai.be",
+    "headers": { "X-Varnish": "9844983946 9780137401", "Age": "2323" },
+    "method": "GET"
+  },
+  {
+    "url": "https://wetransportit.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Cache-Control": "no-cache, must-revalidate, max-age=0",
+      "Expires": "Wed, 11 Jan 1984 05:00:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://blekerij.be",
+    "headers": {
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "Vary": "Accept-Encoding",
+      "ETag": "W/\"ef00f917de5458ca639a00f6dc8692ef\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ematie.be",
+    "headers": {
+      "ETag": "\"575-59992097cc4c0\"",
+      "Last-Modified": "Fri, 13 Dec 2019 08:56:27 GMT",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://benevantwerpen.be",
+    "headers": {
+      "Cache-Control": "private, must-revalidate",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Expires": "-1"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://collectiv-maintenance.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://epc-hasselt.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://jeroenprovoost.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://shanafotografie.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cocktea.be",
+    "headers": { "X-Varnish": "4346382362 4379574597", "Age": "2325" },
+    "method": "GET"
+  },
+  {
+    "url": "https://masterscommunication.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Pragma": "no-cache",
+      "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+      "Last-Modified": "Fri, 31 May 2024 23:25:02 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://x-date.be",
+    "headers": {
+      "Vary": "sec-ch-prefers-color-scheme",
+      "Cache-Control": "no-store, max-age=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://abrenergybv.be",
+    "headers": { "Age": "2319", "X-Varnish": "1204435783 1067926894" },
+    "method": "GET"
+  },
+  {
+    "url": "https://morecon.be",
+    "headers": { "X-Cache": "Miss from cloudfront", "Vary": "User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://pneusdomicile.be",
+    "headers": {
+      "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+      "CF-Ray": "88cab89fb8f89225-FRA",
+      "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://gychem.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "ETag": "\"1a8-60ea0399fe093\"",
+      "Last-Modified": "Wed, 10 Jan 2024 23:59:44 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ruitenwasserdespons.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://hypnocarla.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Last-Modified": "Mon, 27 May 2024 05:37:05 GMT",
+      "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
+      "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bouwwerken-vlerick.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://dikkebus.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "ETag": "W/\"efbf094359035671f8bd16f71e16e1b8\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://gedragsdierenartsjana.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://instituut-steffi.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://boes-boes.be",
+    "headers": {
+      "Last-Modified": "Fri, 31 May 2024 01:28:08 GMT",
+      "Vary": "Accept-Encoding",
+      "Expires": "Fri, 31 May 2024 23:25:07 GMT",
+      "ETag": "\"665927a8-59d65\"",
+      "Cache-Control": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://hubcraft.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://mysmartapp.be",
+    "headers": { "Vary": "Accept-Encoding,Cookie,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://bostijnpatrick.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
+      "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate, public"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://made-invlaanderen.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://artbd.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Age": "0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://vrmedia.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "ETag": "W/\"6d63f9f8359fa813e687dd2fc8e65660\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://maison-equipements.be",
+    "headers": {
+      "ETag": "\"63eb5ba1-154e\"",
+      "Last-Modified": "Tue, 14 Feb 2023 10:00:01 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://legitedujardinier.be",
+    "headers": {
+      "ETag": "\"41b007221b3da1:0\"",
+      "Last-Modified": "Fri, 31 May 2024 06:11:58 GMT",
+      "Cache-Control": "max-age=2592000"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://thuisverpleging-vansteelandt.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://raam-offerte.be",
+    "headers": {
+      "X-Varnish": "936209573",
+      "Age": "0",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://lembuscade-bar.be",
+    "headers": { "Cache-Control": "public", "Vary": "User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://kccb.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://niki-it.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://brandkastenstore.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cutsprl.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://krygsman.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "ETag": "\"f47b-619a95b93be50\"",
+      "Last-Modified": "Thu, 30 May 2024 10:30:36 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://yogaretreat.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "ETag": "W/\"bea2766cb4ce0143a396631d78e3b339\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://hecliege.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Expires": "0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://decordunmoment.be",
+    "headers": { "ETag": "\"2783-1717190990;;;\"" },
+    "method": "GET"
+  },
+  {
+    "url": "https://stradalex.be",
+    "headers": {
+      "ETag": "\"9cdb2b723be8113dd613db432a2e72be\"",
+      "Last-Modified": "Thu, 23 May 2024 18:10:21 GMT",
+      "Age": "69284",
+      "Cache-Control": "public, max-age=86400",
+      "Vary": "Accept-Encoding,Origin",
+      "X-Cache": "Error from cloudfront"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tandartsencarlierlenaerts.be",
+    "headers": {
+      "ETag": "1c742bf4eae2659c2d304c412f76ac65",
+      "Cache-Control": "max-age=30",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://juwelengilson.be",
+    "headers": { "Cache-Control": "private" },
+    "method": "GET"
+  },
+  {
+    "url": "https://samm.be",
+    "headers": { "Vary": "Accept-Encoding", "X-Cache": "HIT from Backend" },
+    "method": "GET"
+  },
+  {
+    "url": "https://baensland.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:25:23 GMT",
+      "Cache-Control": "max-age=0",
+      "Last-Modified": "Sun, 12 May 2024 15:14:37 GMT",
+      "Vary": "Accept-Encoding,User-Agent",
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cab90f6b1718e0-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://rosbeiaardbierproevers.be",
+    "headers": {
+      "Last-Modified": "Sun, 05 May 2024 11:41:35 GMT",
+      "Vary": "Accept-Encoding,User-Agent",
+      "ETag": "\"2da17-617b36f5f867a\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://fit-lab.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:29:45 GMT",
+      "Cache-Control": "max-age=7200, public",
+      "Last-Modified": "Fri, 31 May 2024 21:29:45 GMT",
+      "Vary": "Accept-Encoding",
+      "ETag": "W/\"6cf28beaa45befbbbd70372d54ec21bd\"",
+      "Age": "6940",
+      "Pragma": "public"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://sushimechelen.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://vineut.be",
+    "headers": { "Vary": "Accept-Encoding", "Age": "2345" },
+    "method": "GET"
+  },
+  {
+    "url": "https://les100ciels.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://kouki.be",
+    "headers": {
+      "CF-Ray": "88cab931df8430c9-FRA",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://myleenwijffels.be",
+    "headers": {
+      "ETag": "W/\"d89-5df3b289d1140-gzip\"",
+      "Vary": "Accept-Encoding",
+      "Last-Modified": "Tue, 17 May 2022 20:41:01 GMT",
+      "Age": "7272"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://toledo.be",
+    "headers": { "Last-Modified": "Fri, 31 May 2024 15:04:23 GMT" },
+    "method": "GET"
+  },
+  {
+    "url": "https://horse-entries.be",
+    "headers": {
+      "Cache-Control": "max-age=0, must-revalidate, private, s-maxage=240",
+      "Expires": "Fri, 31 May 2024 23:25:31 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://drogechape.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://talkinglight.be",
+    "headers": { "Age": "0", "Vary": "Accept-Encoding", "X-Cache": "MISS" },
+    "method": "GET"
+  },
+  {
+    "url": "https://mia-vita.be",
+    "headers": {
+      "Cache-Control": "max-age=0",
+      "Expires": "Fri, 31 May 2024 23:25:31 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://zomerbabes.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Expires": "Fri, 31 May 2024 23:25:31 GMT",
+      "Cache-Control": "max-age=0, must-revalidate, private",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://orientali.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://signapanels.be",
+    "headers": {
+      "Cache-Control": "must-revalidate, no-cache, private",
+      "X-Cache": "MISS",
+      "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+      "Age": "0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://templarspirit.be",
+    "headers": {
+      "Cache-Control": "max-age=15",
+      "Expires": "Fri, 31 May 2024 23:25:49 GMT",
+      "CF-Ray": "88cab952885cb75d-BRU",
+      "Server-Timing": "cfRequestDuration;dur=5.999804"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://bloemenfienesse.be",
+    "headers": {
+      "Cache-Control": "no-cache, public, s-maxage=84600",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://mcconnect.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:25:35 GMT",
+      "Vary": "Accept-Encoding",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, private"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://schoonheidsstudiomichelle.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://ecoledesgrandspres.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://les-mysteres-du-cygne.be",
+    "headers": {
+      "Age": "0",
+      "Vary": "Accept-Encoding",
+      "X-Varnish": "489175857"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://hdental.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://myntis.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Last-Modified": "Fri, 31 May 2024 23:25:36 GMT",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://misswhitedesign.be",
+    "headers": { "Age": "0" },
+    "method": "GET"
+  },
+  {
+    "url": "https://h24serrurier.be",
+    "headers": {
+      "Last-Modified": "Fri, 24 May 2024 13:05:18 GMT",
+      "Expires": "Fri, 31 May 2024 23:25:37 GMT",
+      "Cache-Control": "max-age=0",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://vagina.be",
+    "headers": {
+      "ETag": "W/\"e78001efaba269581882a5cad8686455\"",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://detuinboer.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://studiozwam.be",
+    "headers": {
+      "Cache-Control": "s-maxage=31536000",
+      "Vary": "Accept-Language, Accept-Encoding,Fastly-SSL, X-Use-Renderer",
+      "Age": "112406",
+      "X-Cache": "HIT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://kapadokya-helchteren.be",
+    "headers": {
+      "ETag": "W/\"10d52a-Xqax33N1ejyJlsBwswxnaPCBiGs\"",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cleanxxlservice.be",
+    "headers": {
+      "Cache-Control": "no-cache, must-revalidate",
+      "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://faxgids.be",
+    "headers": {
+      "Cache-Control": "no-cache, private",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://iziup.be",
+    "headers": {
+      "Age": "1336604",
+      "Last-Modified": "Mon, 01 Apr 2024 09:45:51 GMT",
+      "Cache-Control": "max-age=0, s-maxage=2592000",
+      "Expires": "Thu, 16 May 2024 12:08:57 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://jvwood-keukens.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://tuning-pc.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://pratenhelpt.be",
+    "headers": { "Vary": "User-Agent", "ETag": "\"142403-1716756933;;;\"" },
+    "method": "GET"
+  },
+  {
+    "url": "https://johndumon.be",
+    "headers": {
+      "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+      "Cache-Control": "no-cache, must-revalidate",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://schilderwerken-maarten.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Cache-Control": "no-store, no-cache, must-revalidate, public",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://luyckxfrancis.be",
+    "headers": {
+      "Vary": "Accept-Encoding,User-Agent",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate, public",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://dvbc.be",
+    "headers": { "Age": "2188", "X-Varnish": "10111490128 10151690581" },
+    "method": "GET"
+  },
+  {
+    "url": "https://mannequins.be",
+    "headers": {
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "Vary": "Accept-Encoding",
+      "ETag": "W/\"5f370957c49ea45061ff7683db1bc1f9\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://skateswinkel.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://domotz.be",
+    "headers": {
+      "CF-Ray": "88cab9a7eb9eb9c3-BRU",
+      "Vary": "Accept-Encoding,User-Agent",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://kokerellen.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Last-Modified": "Fri, 31 May 2024 14:09:48 GMT",
+      "Cache-Control": "public, max-age=0",
+      "Expires": "Fri, 31 May 2024 23:25:48 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://knkoh.be",
+    "headers": {
+      "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Vary": "Accept-Encoding",
+      "Expires": "Thu, 01 Jan 1970 00:00:01 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://novabilselekt.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:25:49 GMT",
+      "Cache-Control": "max-age=0, public",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://oorlogsroute.be",
+    "headers": { "Age": "0", "X-Varnish": "4755015070" },
+    "method": "GET"
+  },
+  {
+    "url": "https://rgrdance.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "private"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://jsantwerpen.be",
+    "headers": {
+      "Cache-Control": "private, no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+      "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://keytradebanknationaalparkmarathon.be",
+    "headers": { "Age": "3597", "Vary": "Accept-Encoding", "X-Cache": "HIT" },
+    "method": "GET"
+  },
+  {
+    "url": "https://goldenfootprint.be",
+    "headers": {
+      "X-Cache": "HIT",
+      "Vary": "Accept-Encoding",
+      "Last-Modified": "Wed, 22 May 2024 02:54:28 GMT",
+      "Cache-Control": "max-age=2592000",
+      "Expires": "Sun, 30 Jun 2024 21:29:50 GMT",
+      "Age": "6962"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://solar-concept.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://dnu.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://etappe.be",
+    "headers": {
+      "ETag": "W/\"7dc446d7e4379b4c295243e8a03df64f--gzip\"",
+      "Age": "147009",
+      "Vary": "Accept-Encoding",
+      "Expires": "Thu, 01 Jan 1970 00:00:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tooon.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:25:55 GMT",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, must-revalidate, private, s-maxage=240"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://sanitairmaes.be",
+    "headers": {
+      "Age": "2146",
+      "ETag": "W/\"3d5d-613ea4a6f73f5-gzip\"",
+      "Last-Modified": "Mon, 18 Mar 2024 07:27:32 GMT",
+      "X-Varnish": "10132885434 9968792123",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://call-company.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding,Cookie"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://mplrix.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://lifemacs.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://bercanda.be",
+    "headers": {
+      "Last-Modified": "Wed, 13 Dec 2023 15:58:49 GMT",
+      "Vary": "User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://fusioncocktails.be",
+    "headers": {
+      "Cache-Control": "max-age=3, must-revalidate",
+      "Last-Modified": "Fri, 31 May 2024 22:37:09 GMT",
+      "Vary": "Accept-Encoding,Cookie,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://gtdone.be",
+    "headers": {
+      "ETag": "\"6682-52ed003a87440\"",
+      "Last-Modified": "Thu, 24 Mar 2016 18:57:13 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://itistime.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://etera.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://maisonmaritime.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://edelimmo.be",
+    "headers": {
+      "Last-Modified": "Fri, 31 May 2024 23:26:03 GMT",
+      "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ladolina.be",
+    "headers": {
+      "Last-Modified": "Fri, 31 May 2024 23:26:04 GMT",
+      "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Vary": "Accept-Encoding,User-Agent"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://nostalguy.be",
+    "headers": {
+      "ETag": "\"e3-5ce6119880b13\"",
+      "Last-Modified": "Fri, 15 Oct 2021 09:48:39 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://kasteeldreef6.be",
+    "headers": {
+      "Cache-Control": "max-age=0",
+      "Vary": "User-Agent,Accept-Encoding",
+      "Expires": "Fri, 31 May 2024 23:26:05 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://tram2.be",
+    "headers": {
+      "Last-Modified": "Wed, 11 Oct 2023 10:27:52 GMT",
+      "ETag": "\"s2d12gg0\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://shemagazine.be",
+    "headers": {
+      "CF-Cache-Status": "MISS",
+      "CF-Ray": "88caba28ef9b2e4a-BRU",
+      "Last-Modified": "Fri, 31 May 2024 23:25:09 GMT",
+      "Expires": "Fri, 31 May 2024 23:25:39 GMT",
+      "Cache-Control": "public, max-age=0, must-revalidate",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://schaerer.be",
+    "headers": {
+      "Age": "26117",
+      "Expires": "Sat, 01 Jun 2024 16:10:54 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+      "Vary": "Accept-Encoding,Cookie",
+      "X-Cache": "HIT, HIT",
+      "Pragma": "cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://shop-jij-veilig-online.be",
+    "headers": {
+      "Cache-Control": "max-age=60, public, s-maxage=300, wm-s-maxage=86400",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://kv-interieur.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "CF-Ray": "88caba468b7890d6-FRA",
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding,User-Agent",
+      "CF-Cache-Status": "DYNAMIC",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://studiomaru.be",
+    "headers": {
+      "Last-Modified": "Fri, 31 May 2024 21:29:48 GMT",
+      "CF-Cache-Status": "HIT",
+      "Cache-Control": "public, max-age=604800",
+      "Age": "6986",
+      "CF-Ray": "88caba4f5e9db708-BRU"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://lovlifecoaching.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://tolkfarsi.be",
+    "headers": { "Cache-Control": "private" },
+    "method": "GET"
+  },
+  {
+    "url": "https://webvisionprods.be",
+    "headers": {
+      "Last-Modified": "Mon, 04 Dec 2023 20:35:50 GMT",
+      "Vary": "Accept-Encoding",
+      "ETag": "\"407b-60bb51042ee8f\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://nordis.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://passantheem.be",
+    "headers": {
+      "ETag": "\"410-5c02c02f334f7\"",
+      "Last-Modified": "Sat, 17 Apr 2021 14:35:44 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://cookshop.be",
+    "headers": {
+      "ETag": "W/\"60e692095e9eb1e8d6d711c2d4602e95\"",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://onlinecursusfilmen.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://ketogeen.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, private, must-revalidate",
+      "ETag": "W/\"4aa18ea27a796a969de13a35c5105e06\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://winstinzicht.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://boucherie-el-kamel-express.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://krebs.be",
+    "headers": { "Last-Modified": "Tue, 26 Feb 2019 09:47:50 GMT" },
+    "method": "GET"
+  },
+  {
+    "url": "https://pretachanter.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://teamdagen.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "X-Cache": "Error from cloudfront",
+      "ETag": "\"d9c8ce5267c511857bc5b0c44b72f881\"",
+      "Last-Modified": "Thu, 11 Apr 2024 19:25:53 GMT",
+      "Age": "3071",
+      "Cache-Control": "max-age=3600"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://ergovita.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://immolocus.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://centre-medical-heliporte.be",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Vary": "Accept-Encoding",
+      "Pragma": "no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://openaircooking.be",
+    "headers": { "Age": "7336", "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://revaplus.be",
+    "headers": {
+      "Vary": "x-wf-forwarded-proto, Accept-Encoding",
+      "X-Cache": "HIT",
+      "Age": "81282"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://senaat.be",
+    "headers": {
+      "CF-Ray": "88cababc596e1e4e-FRA",
+      "CF-Cache-Status": "DYNAMIC",
+      "Last-Modified": "Mon, 11 Oct 2021 09:43:28 GMT",
+      "Vary": "Accept-Encoding"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://e-vki.be",
+    "headers": {
+      "CF-Cache-Status": "DYNAMIC",
+      "CF-Ray": "88cabac62fe06922-FRA"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://concoursipalle.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Cache-Control": "private, must-revalidate",
+      "Expires": "-1"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://vosessentielsevents.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://mourik.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "CF-Ray": "88cabacecb3783de-BRU",
+      "CF-Cache-Status": "DYNAMIC"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://lexical.be",
+    "headers": {
+      "CF-Ray": "88cabad6a8ba83cb-BRU",
+      "Cache-Control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Expires": "Thu, 01 Jan 1970 00:00:01 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://antwerpenschipholtaxi.be",
+    "headers": { "Vary": "Accept-Encoding,User-Agent" },
+    "method": "GET"
+  },
+  {
+    "url": "https://vendez-maison.be",
+    "headers": {
+      "ETag": "\"36f35-619c7d79f691b\"",
+      "Vary": "Accept-Encoding,Cookie",
+      "Expires": "Fri, 31 May 2024 23:52:46 GMT",
+      "Cache-Control": "max-age=1567, public, public",
+      "Last-Modified": "Fri, 31 May 2024 22:52:46 GMT",
+      "Pragma": "public"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://schilderwerkenmoelans.be",
+    "headers": {
+      "X-Varnish": "10115421624",
+      "Expires": "Fri, 31 May 2024 23:26:39 GMT",
+      "Vary": "Accept-Encoding",
+      "Age": "0",
+      "Cache-Control": "max-age=0"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://osteopathe-malmedy.be",
+    "headers": {
+      "Vary": "Accept-Encoding",
+      "Pragma": "no-cache",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://elledeleenheer.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://porfibel.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://afterset.be",
+    "headers": { "Vary": "accept-language,accept-charset" },
+    "method": "GET"
+  },
+  {
+    "url": "https://kopenantwerpen.be",
+    "headers": {
+      "Vary": "Accept-Encoding, User-Agent",
+      "Age": "7350",
+      "X-Cache": "cached"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://valerievannerom.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://mindpowerhypnose.be",
+    "headers": { "Vary": "Accept-Encoding" },
+    "method": "GET"
+  },
+  {
+    "url": "https://simar-belgium.be",
+    "headers": {
+      "ETag": "\"2192-1717030616;;;\"",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://workbase.be",
+    "headers": {
+      "Last-Modified": "Mon, 01 May 2023 07:32:39 GMT",
+      "ETag": "\"bc-5fa9cd3dca39e\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://saerensbart.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Last-Modified": "Fri, 31 May 2024 23:27:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Expires": "Wed, 17 Aug 2005 00:00:00 GMT"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://meters.be",
+    "headers": {
+      "Cache-Control": "no-store, max-age=0",
+      "Vary": "sec-ch-prefers-color-scheme"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://geeraardcasier.be",
+    "headers": {
+      "Last-Modified": "Fri, 05 May 2023 11:51:13 GMT",
+      "ETag": "\"745-5faf0e7e20e40\""
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://laviepursang.be",
+    "headers": {
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-store, no-cache, must-revalidate"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://begsevents.be",
+    "headers": {
+      "Expires": "Fri, 31 May 2024 23:27:36 GMT",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "max-age=0, must-revalidate, private"
+    },
+    "method": "GET"
+  },
+  {
+    "url": "https://spanjevilla.be",
+    "headers": {
+      "Pragma": "no-cache",
+      "Vary": "Accept-Encoding",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    "method": "GET"
+  }
+]
