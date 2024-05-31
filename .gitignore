@@ -14,3 +14,7 @@ Cargo.lock
 *.pdb
 =======
 /target
+urls.txt
+urls2.txt
+results.json
+results2.json
